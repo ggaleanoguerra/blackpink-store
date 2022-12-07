@@ -1,0 +1,26 @@
+[
+    {
+      "precio": 9900,
+      "id": 1,
+      "title": "Jisoo ver.",
+      "thumbnailUrl": "https://hypebeast.com/image/2022/08/blackpink-pink-venom-pre-single-poster-release-info-003.jpg"
+    },
+    {
+      "precio": 9900,
+      "id": 2,
+      "title": "Lisa ver.",
+      "thumbnailUrl": "https://hypebeast.com/image/2022/08/blackpink-pink-venom-pre-single-poster-release-info-002.jpg"
+    },
+    {
+      "precio": 9900,
+      "id": 3,
+      "title": "Jennie ver.",
+      "thumbnailUrl": "https://hypebeast.com/image/2022/08/blackpink-pink-venom-pre-single-poster-release-info-001.jpg"
+    },
+    {
+      "precio": 9900,
+      "id": 4,
+      "title": "Rosé ver.",
+      "thumbnailUrl": "https://hypebeast.com/image/2022/08/blackpink-pink-venom-pre-single-poster-release-info-004.jpg"
+    }
+  ]
